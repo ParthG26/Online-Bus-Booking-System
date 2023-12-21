@@ -1,4 +1,4 @@
-# Project Title
+# Online Bus Booking System
 
 GetBus - Book Bus Travels, AC Bus & Bus Hire
 An online bus ticket booking system with a login system, validated payment form and ticket pdf print. The whole backend is coded in core PHP and MySql.
